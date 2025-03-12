@@ -37,4 +37,4 @@ Potential enhancements and applications include:
 ## References
 
 - [Multimodal Systems Course](https://corsi.unige.it/en/off.f/2024/ins/77859)
-- [EyesWeb XMI Platform](https://casapaganini.un
+- [EyesWeb XMI Platform](https://casapaganini.un)
